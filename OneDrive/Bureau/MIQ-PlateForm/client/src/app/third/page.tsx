@@ -6,7 +6,7 @@ const Third = () => {
   const pathname = usePathname();
   return (
     <>
-      <h1>hello from third component</h1>
+      <h1>hello hello hello from third component</h1>
     </>
   );
 };
