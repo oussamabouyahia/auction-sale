@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a0001-11",
+    "name": "Antique Vase",
+    "description": "blablablabal",
+    "lastBid": 12.0,
+    "lastBidUser": null,
+    "imageUrl": "http:localhost:3000/images/a0001-11.jpg"
+  },
+  {
+    "id": "b0002-22",
+    "name": "Viking Battle Helmet",
+    "description": "blablablabal2",
+    "lastBid": 50.0,
+    "lastBidUser": null,
+    "imageUrl": "http:localhost:3000/images/b0002-22.jpg"
+  },
+  {
+    "id": "c0003-33",
+    "name": "Dynasty Scroll",
+    "description": "blablablabal3",
+    "lastBid": 30.0,
+    "lastBidUser": null,
+    "imageUrl": "http:localhost:3000/images/c0003-33.jpg"
+  }
+]
